@@ -1,6 +1,6 @@
 print("Q.1) Write a python program to find the area and circumference of a circle according to the given radius value.\n\n")
 r = int(input())
-print("area of circle ", r*r*3.14)
+print("area of circle ", r**2*3.14)
 print("circumference ", 2*3.14*r)
 
 print("Q.2) Write a python program to calculate the simple interest of the given P,T,R.\n")
